@@ -7,7 +7,7 @@ for i in range(1,10): # for choosing a number from 1 to 9, 9 itterations will ta
     
    print('')
       
-''' Explanation:
+""" Explanation:
 ranges of j:
 1. 0 (one iteration) so 1 is printed once (corresponding value of i)
 2. 0,1 (2 iteration) so 2 is printed twice
@@ -19,3 +19,4 @@ ranges of j:
 8.  0,1,2,3,4,5,6,7 (8 iteration)so 8 is printed 8 times
 9.  0,1,2,3,4,5,6,7,8 (9 iteration)so 9 is printed 9 times
 
+"""
