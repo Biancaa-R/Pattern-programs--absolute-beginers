@@ -20,3 +20,6 @@ ranges of j:
 9.  0,1,2,3,4,5,6,7,8 (9 iteration)so 9 is printed 9 times
 
 """
+
+#We are putting print(" ") so that after the inner set of iteration is over a new line gets printed or else all the iteration come in th same line.
+#i th iteration goes to j iteration a blank line then i iteration to j and so on
